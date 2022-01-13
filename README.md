@@ -1,4 +1,4 @@
-## Hello from Graham and welcome to my code's humble abode.
+## Welcome to my code's humble abode.
 
 I am recent Computer Programming grad from Algonquin College. Based in Ottawa, Ontario.
 
