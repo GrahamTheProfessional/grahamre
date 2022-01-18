@@ -4,6 +4,6 @@ I am recent Computer Programming grad from Algonquin College. Based in Ottawa, O
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grahamcodes&title_color=58a6ff&text_color=8b949e&icon_color=c9d1d9&border_color=30363d&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grahamcodes&title_color=58a6ff&text_color=8b949e&icon_color=c9d1d9&bg_color=0d1117&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Graham's GitHub stats](https://github-readme-stats.vercel.app/api?username=grahamcodes&title_color=58a6ff&text_color=8b949e&icon_color=c9d1d9&border_color=30363d&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Graham's GitHub stats](https://github-readme-stats.vercel.app/api?username=grahamcodes&title_color=58a6ff&text_color=8b949e&icon_color=c9d1d9&bg_color=0d1117&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
