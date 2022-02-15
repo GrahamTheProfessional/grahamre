@@ -1,6 +1,6 @@
 ## Welcome to my code's humble abode.
 
-I am recent Computer Programming grad from Algonquin College. Based in Ottawa, Ontario.
+I am a recent Computer Programming grad from Algonquin College. Based in Ottawa, Ontario.
 
 ---
 
