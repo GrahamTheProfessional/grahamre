@@ -1,6 +1,6 @@
 ## Welcome to my code's humble abode.
 
-Hi, I'm Graham, a recent Computer Programming grad from Ottawa. I'm working away to hone my skills so that I may one day create an AI to write these profile blurbs for me.
+Hi, I'm Graham, a software dev based out of Ottawa. 
 
 ---
 
